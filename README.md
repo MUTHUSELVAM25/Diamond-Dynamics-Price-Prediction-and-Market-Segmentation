@@ -1,0 +1,2 @@
+# Diamond-Dynamics-Price-Prediction-and-Market-Segmentation
+An end-to-end Machine Learning project that predicts diamond prices and segments diamonds into market categories using Regression and Clustering algorithms. Includes advanced EDA, feature engineering, and a Streamlit-based interactive UI for real-time prediction and segmentation. Tech Stack: Python, Scikit-learn, TensorFlow, K-Means, PCA, Streamlit
